@@ -38,7 +38,7 @@ const studentProfile = {
   */
   rpubs: [
     {
-      title: "Introduction to R",
+      title: "My R-Pubs account",
       url: "https://rpubs.com/Ayush_P"
     },
     {
